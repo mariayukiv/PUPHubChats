@@ -17,7 +17,7 @@ internal class program {
     {
         case '1':
                 List <String> prof = new List<String>{"Dr.Orozco","Mr.Almazan","Mr.Macha","Mr.Dela Cruz","Ms.Quinsayas"};
-                Console.WriteLine("[1]Dr. Orozco");
+                Console.WriteLine("[1]Dr. Glorina Orozco");
                 Console.WriteLine("[2]Mr. Almazan");
                 Console.WriteLine("[3]Mr. Macha");
                 Console.WriteLine("[4]Mr. Dela Cruz");
