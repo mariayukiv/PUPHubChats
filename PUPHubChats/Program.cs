@@ -20,7 +20,7 @@ internal class program {
                 Console.WriteLine("[1]Dr. Glorina Orozco");
                 Console.WriteLine("[2]Mr. Almazan");
                 Console.WriteLine("[3]Mr. Macha");
-                Console.WriteLine("[4]Mr. Dela Cruz");
+                Console.WriteLine("[4]Mr. Ed Dela Cruz");
                 Console.WriteLine("[5]Ms. Quinsayas");
                 choice = Console.ReadLine()[0];
 
